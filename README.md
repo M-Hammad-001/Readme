@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [web development.](web development.)
 
-- 💬 Ask me about **Ask me about web development best practices, performance optimization, or WordPress customization!**
+- 💬 Ask me about ** web development best practices, performance optimization, or WordPress customization!**
 
 - 📫 How to reach me **muhammadhammad0874@gmail.com**
 
